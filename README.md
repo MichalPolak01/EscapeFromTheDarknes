@@ -28,6 +28,19 @@ Escape from the Darkness to gra z elementami zagadek stworzona w Unreal Engine 5
     </tr>
   </table>
 </div>
+<br>
+<div align="center">
+  <table>
+    <tr>
+      <td style="text-align: center;">
+        <img src="https://github.com/MichalPolak01/EscapeFromTheDarknes/assets/104890694/e15855ee-06b5-4106-8fff-9d9581e9754c" width="600" height="403"/>
+      </td>
+      <td style="text-align: center;">
+        <img src="https://github.com/MichalPolak01/EscapeFromTheDarknes/assets/104890694/93bd9596-80b3-4a49-afcf-4a3a95471497" width="600" height="376"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 Główne funkcje gry
 * Menu główne: Intuicyjne i estetyczne menu główne zapewniające łatwy dostęp do wszystkich opcji gry.
